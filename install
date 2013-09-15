@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cp "Latin American.keylayout" "/Library/Keyboard Layouts/"
