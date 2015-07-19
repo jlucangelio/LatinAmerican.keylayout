@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sudo cp "Latin American.keylayout" "/Library/Keyboard Layouts/"
-sudo cp -R "Latin American.bundle" "/Library/Keyboard Layouts/"
+cp "Latin American.keylayout" ~/Library/"Keyboard Layouts"/
+cp -R "Latin American.bundle" ~/Library/"Keyboard Layouts"/
